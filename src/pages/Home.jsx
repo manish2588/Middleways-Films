@@ -13,9 +13,9 @@ const Home = () => {
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-white">
         {/* Main Heading */}
         <div className="text-center mt-44">
-  <h1 className="text-2xl font-semibold font-mono">VEDIOGRAPHY</h1>
-  <h2 className="mt-6 text-4xl leading-tight w-full mx-auto tracking-wide font-bold font-mono">
-    Engrossing tales through the lens <br/>of <br /> MiddleWay Films
+  <h1 className="text-4xl font-semibold font-mono">LIGHTS! CAMERA! ACTION!</h1>
+  <h2 className="mt-6 text-2xl leading-tight w-full mx-auto tracking-wide font-bold font-mono">
+    We are storyteller  <br/>at  <br /> Our Essence
   </h2>
 </div>
         {/* Call to Action */}
